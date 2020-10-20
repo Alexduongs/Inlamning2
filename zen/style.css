@@ -1,0 +1,144 @@
+
+div {
+   text-align: center;
+   background-color: rgb(220, 225, 235);
+   font-family: "Lucida Console", Courier, monospace;
+   
+}
+p {
+   color: #f1f6f9;
+}
+
+h3{
+   color: #f1f6f9;
+}
+
+
+   
+   .summary {
+      
+      width: 1000px;
+      border: 5px solid #f1f6f9;
+      padding: 10px;
+      margin-left: 25%;
+      margin-bottom: 10px;
+
+      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQavXBP5Uk-3LNSSdGWEkY980ni0vFfU7z8jQ&usqp=CAU");
+      background-size: 100%;
+      
+      background-repeat: no-repeat;
+
+}
+
+   .preamble {
+
+      width: 1000px;
+      border: 5px solid #f1f6f9;
+      padding: 10px;
+      margin-left: 25%;
+      margin-bottom: 10px;
+
+      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQavXBP5Uk-3LNSSdGWEkY980ni0vFfU7z8jQ&usqp=CAU");
+      background-size: 100%;
+      
+      background-repeat: no-repeat;
+
+}
+
+   .explanation {
+      width: 1000px;
+      border: 5px solid #f1f6f9;
+      padding: 10px;
+      margin-left: 25%;
+      margin-bottom: 10px;
+
+      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQavXBP5Uk-3LNSSdGWEkY980ni0vFfU7z8jQ&usqp=CAU");
+      background-size: 100%;
+      
+      background-repeat: no-repeat;
+}
+
+.participation{
+   width: 1000px;
+      border: 5px solid #f1f6f9;
+      padding: 10px;
+      margin-left: 25%;
+      margin-bottom: 10px;
+
+      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQavXBP5Uk-3LNSSdGWEkY980ni0vFfU7z8jQ&usqp=CAU");
+      background-size: 100%;
+      
+      background-repeat: no-repeat;
+}
+
+.benefits {
+   width: 1000px;
+   border: 5px solid #f1f6f9;
+      padding: 10px;
+      margin-left: 25%;
+      margin-bottom: 10px;
+
+      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQavXBP5Uk-3LNSSdGWEkY980ni0vFfU7z8jQ&usqp=CAU");
+      background-size: 100%;
+      
+      background-repeat: no-repeat;
+}
+
+.requirements {
+   width: 1000px;
+   border: 5px solid #f1f6f9;
+      padding: 10px;
+      margin-left: 25%;
+      margin-bottom: 10px;
+      
+      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQavXBP5Uk-3LNSSdGWEkY980ni0vFfU7z8jQ&usqp=CAU");
+      background-size: 100%;
+      
+      background-repeat: no-repeat;
+
+}
+
+.design-selection{
+   width: 1000px;
+   border: 5px solid #f1f6f9;
+      padding: 10px;
+      margin-left: 25%;
+      margin-bottom: 10px;
+
+      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQavXBP5Uk-3LNSSdGWEkY980ni0vFfU7z8jQ&usqp=CAU");
+      background-size: 100%;
+      
+      background-repeat: no-repeat;
+}
+
+.design-archives{
+   width: 1000px;
+   border: 5px solid #f1f6f9;
+      padding: 10px;
+      margin-left: 25%;
+      margin-bottom: 10px;
+
+      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQavXBP5Uk-3LNSSdGWEkY980ni0vFfU7z8jQ&usqp=CAU");
+      background-size: 100%;
+      
+      background-repeat: no-repeat;
+   
+}
+
+.zen-resources{
+   width: 1000px;
+   border: 5px solid #f1f6f9;
+      padding: 10px;
+      margin-left: 25%;
+      margin-bottom: 10px;
+
+      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQavXBP5Uk-3LNSSdGWEkY980ni0vFfU7z8jQ&usqp=CAU");
+      background-size: 100%;
+      
+      background-repeat: no-repeat;
+
+}
+
+
+
+
