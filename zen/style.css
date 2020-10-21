@@ -13,6 +13,14 @@ h3{
    color: #f1f6f9;
 }
 
+footer{
+   position: fixed;
+   bottom: 0;
+}
+
+
+
+
 
    
    .summary {
@@ -23,7 +31,7 @@ h3{
       margin-left: 25%;
       margin-bottom: 10px;
 
-      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQavXBP5Uk-3LNSSdGWEkY980ni0vFfU7z8jQ&usqp=CAU");
+      background-image: url("https://images.squarespace-cdn.com/content/v1/5a5906400abd0406785519dd/1547305833918-3GKETBUWRDXCEC6P5C2N/ke17ZwdGBToddI8pDm48kKAwwdAfKsTlKsCcElEApLR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UegTYNQkRo-Jk4EWsyBNhwKrKLo5CceA1-Tdpfgyxoog5ck0MD3_q0rY3jFJjjoLbQ/yenyi.jpg");
       background-size: 100%;
       
       background-repeat: no-repeat;
@@ -38,7 +46,7 @@ h3{
       margin-left: 25%;
       margin-bottom: 10px;
 
-      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQavXBP5Uk-3LNSSdGWEkY980ni0vFfU7z8jQ&usqp=CAU");
+      background-image: url("https://images.squarespace-cdn.com/content/v1/5a5906400abd0406785519dd/1547305833918-3GKETBUWRDXCEC6P5C2N/ke17ZwdGBToddI8pDm48kKAwwdAfKsTlKsCcElEApLR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UegTYNQkRo-Jk4EWsyBNhwKrKLo5CceA1-Tdpfgyxoog5ck0MD3_q0rY3jFJjjoLbQ/yenyi.jpg");
       background-size: 100%;
       
       background-repeat: no-repeat;
@@ -52,7 +60,7 @@ h3{
       margin-left: 25%;
       margin-bottom: 10px;
 
-      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQavXBP5Uk-3LNSSdGWEkY980ni0vFfU7z8jQ&usqp=CAU");
+      background-image: url("https://images.squarespace-cdn.com/content/v1/5a5906400abd0406785519dd/1547305833918-3GKETBUWRDXCEC6P5C2N/ke17ZwdGBToddI8pDm48kKAwwdAfKsTlKsCcElEApLR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UegTYNQkRo-Jk4EWsyBNhwKrKLo5CceA1-Tdpfgyxoog5ck0MD3_q0rY3jFJjjoLbQ/yenyi.jpg");
       background-size: 100%;
       
       background-repeat: no-repeat;
@@ -65,7 +73,7 @@ h3{
       margin-left: 25%;
       margin-bottom: 10px;
 
-      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQavXBP5Uk-3LNSSdGWEkY980ni0vFfU7z8jQ&usqp=CAU");
+      background-image: url("https://images.squarespace-cdn.com/content/v1/5a5906400abd0406785519dd/1547305833918-3GKETBUWRDXCEC6P5C2N/ke17ZwdGBToddI8pDm48kKAwwdAfKsTlKsCcElEApLR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UegTYNQkRo-Jk4EWsyBNhwKrKLo5CceA1-Tdpfgyxoog5ck0MD3_q0rY3jFJjjoLbQ/yenyi.jpg");
       background-size: 100%;
       
       background-repeat: no-repeat;
@@ -78,7 +86,7 @@ h3{
       margin-left: 25%;
       margin-bottom: 10px;
 
-      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQavXBP5Uk-3LNSSdGWEkY980ni0vFfU7z8jQ&usqp=CAU");
+      background-image: url("https://images.squarespace-cdn.com/content/v1/5a5906400abd0406785519dd/1547305833918-3GKETBUWRDXCEC6P5C2N/ke17ZwdGBToddI8pDm48kKAwwdAfKsTlKsCcElEApLR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UegTYNQkRo-Jk4EWsyBNhwKrKLo5CceA1-Tdpfgyxoog5ck0MD3_q0rY3jFJjjoLbQ/yenyi.jpg");
       background-size: 100%;
       
       background-repeat: no-repeat;
@@ -91,7 +99,7 @@ h3{
       margin-left: 25%;
       margin-bottom: 10px;
       
-      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQavXBP5Uk-3LNSSdGWEkY980ni0vFfU7z8jQ&usqp=CAU");
+      background-image: url("https://images.squarespace-cdn.com/content/v1/5a5906400abd0406785519dd/1547305833918-3GKETBUWRDXCEC6P5C2N/ke17ZwdGBToddI8pDm48kKAwwdAfKsTlKsCcElEApLR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UegTYNQkRo-Jk4EWsyBNhwKrKLo5CceA1-Tdpfgyxoog5ck0MD3_q0rY3jFJjjoLbQ/yenyi.jpg");
       background-size: 100%;
       
       background-repeat: no-repeat;
@@ -105,7 +113,7 @@ h3{
       margin-left: 25%;
       margin-bottom: 10px;
 
-      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQavXBP5Uk-3LNSSdGWEkY980ni0vFfU7z8jQ&usqp=CAU");
+      background-image: url("https://images.squarespace-cdn.com/content/v1/5a5906400abd0406785519dd/1547305833918-3GKETBUWRDXCEC6P5C2N/ke17ZwdGBToddI8pDm48kKAwwdAfKsTlKsCcElEApLR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UegTYNQkRo-Jk4EWsyBNhwKrKLo5CceA1-Tdpfgyxoog5ck0MD3_q0rY3jFJjjoLbQ/yenyi.jpg");
       background-size: 100%;
       
       background-repeat: no-repeat;
@@ -118,7 +126,7 @@ h3{
       margin-left: 25%;
       margin-bottom: 10px;
 
-      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQavXBP5Uk-3LNSSdGWEkY980ni0vFfU7z8jQ&usqp=CAU");
+      background-image: url("https://images.squarespace-cdn.com/content/v1/5a5906400abd0406785519dd/1547305833918-3GKETBUWRDXCEC6P5C2N/ke17ZwdGBToddI8pDm48kKAwwdAfKsTlKsCcElEApLR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UegTYNQkRo-Jk4EWsyBNhwKrKLo5CceA1-Tdpfgyxoog5ck0MD3_q0rY3jFJjjoLbQ/yenyi.jpg");
       background-size: 100%;
       
       background-repeat: no-repeat;
@@ -132,12 +140,13 @@ h3{
       margin-left: 25%;
       margin-bottom: 10px;
 
-      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQavXBP5Uk-3LNSSdGWEkY980ni0vFfU7z8jQ&usqp=CAU");
+      background-image: url("https://images.squarespace-cdn.com/content/v1/5a5906400abd0406785519dd/1547305833918-3GKETBUWRDXCEC6P5C2N/ke17ZwdGBToddI8pDm48kKAwwdAfKsTlKsCcElEApLR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UegTYNQkRo-Jk4EWsyBNhwKrKLo5CceA1-Tdpfgyxoog5ck0MD3_q0rY3jFJjjoLbQ/yenyi.jpg");
       background-size: 100%;
       
       background-repeat: no-repeat;
 
 }
+
 
 
 
